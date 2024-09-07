@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ArrayDemo 
+public class Array
 {
     public static void main(String[] args)
     {
